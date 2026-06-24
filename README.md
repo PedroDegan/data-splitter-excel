@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Data Splitter & Excel Formatter
 
 ## 📌 Overview
@@ -29,6 +30,9 @@ project-folder/
 ├── README.md
 └── requirements.txt
 ```
+
+## 📁 Sample Output
+An example of generated Excel files is included in the `output/` folder for demonstration purposes.
 
 ## 🚀 How to Run
 
@@ -72,3 +76,7 @@ All examples are anonymized or synthetic, ensuring compliance with data protecti
 
 ## 👤 Author
 Pedro Henrique Degan
+=======
+# data-splitter-excel
+Automates splitting large datasets into formatted Excel files by category, improving efficiency and reducing manual reporting effort.
+>>>>>>> bb3b839ea6b989e9715a00c10f616792757b7350
