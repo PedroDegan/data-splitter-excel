@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Data Splitter & Excel Formatter
 
 ## 📌 Overview
@@ -76,7 +75,3 @@ All examples are anonymized or synthetic, ensuring compliance with data protecti
 
 ## 👤 Author
 Pedro Henrique Degan
-=======
-# data-splitter-excel
-Automates splitting large datasets into formatted Excel files by category, improving efficiency and reducing manual reporting effort.
->>>>>>> bb3b839ea6b989e9715a00c10f616792757b7350
